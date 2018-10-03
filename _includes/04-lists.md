@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+#### My favorite languages
+- C++
+- PHP
+- Javascript
+- Go
+- Java
+- Python
+- Kotlin
